@@ -35,9 +35,10 @@ Open source to contribute
 error makes clever
 
 # Visit the Live Page
+https://vishvesprabakar.github.io/error-makes-clever-captcha/
+
 
 
 ```bash
-git clone https://github.com/your-username/captcha-generator.git
-
+git clone https://github.com/vishvesprabakar/captcha-generator.git 
 
